@@ -19,3 +19,11 @@ c#
 
 
 ![Image alt](https://github.com/Elena19ar/testowanie/blob/master/azzzzzzzzzz.png)
+
+
+##Student
+
+Alena Arbuzava (260934)
+
+##Grupa
+S22-31 AiB
